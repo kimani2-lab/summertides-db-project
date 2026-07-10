@@ -33,7 +33,7 @@ By the end of this sprint, you should be able to:
 * All scripts should execute without errors.
 * Include comments before every exercise explaining what the query is intended to accomplish.
 * Commit your work regularly if using Git.
-
+`
 ---
 
 # Part 1 – Create the Database
